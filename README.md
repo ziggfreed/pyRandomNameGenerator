@@ -1,2 +1,2 @@
 # pyRandomNameGenerator
-Learning python with a random name generator
+Generates random names based on probablity using existing names
